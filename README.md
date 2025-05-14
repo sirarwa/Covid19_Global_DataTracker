@@ -19,7 +19,7 @@ The Covid-19 Data Tracker Project is a Python-based application designed to anal
 - **Data Source**: Our World in Data. 
 Link: https://covid.ourworldindata.org/data/owid-covid-data.csv
 
-## Installation
+## Installation and usage. 
 1. Clone the repository:
      ```bash
      git clone https://github.com/sirarwa/Covid19_Global_DataTracker
@@ -32,13 +32,9 @@ Link: https://covid.ourworldindata.org/data/owid-covid-data.csv
      ```bash
      pip install -r requirements.txt
      ```
+4. Download the Dataset from https://covid.ourworldindata.org/data/owid-covid-data.csv and save it in the same directory. 
 
-## Usage
-1. Run the application:
-     ```bash
-     Covid_Data_Tracker.ipynb.ipynb
-     ```
-2. Follow the on-screen instructions to view and edit the code on Jupyter Notebook.
+5. Begin working on the data to explore more insights. 
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
